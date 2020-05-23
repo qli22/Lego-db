@@ -123,4 +123,5 @@ INSERT INTO LEGO(item_id, name,theme,sub_group,num_pieces,price,
 				 num_minifigure,status,purchased_quantity,purchased_price)
 VALUES
 	(75987, 'Omnic Bastion', 'Overwatch',NULL, 182, 24.99,0,'Blizzard',1,34.99),	
-    (75975, 'Watchpoint: Gibraltar', 'Overwatch',NULL, 730, 89.99,4,'Limit 3',1,59.99);
+    (75975, 'Watchpoint: Gibraltar', 'Overwatch',NULL, 730, 89.99,4,'Limit 3',1,59.99),
+    	(75951, 'Grindelwald´s Escape', 'Harry Porter','Fantastic Beasts', 132, 19.99,2,'Retired',2,19.99);
