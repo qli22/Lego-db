@@ -125,7 +125,7 @@ VALUES
 	(75987, 'Omnic Bastion', 'Overwatch',NULL, 182, 24.99,0,'Blizzard',1,34.99),	
 	(75975, 'Watchpoint: Gibraltar', 'Overwatch',NULL, 730, 89.99,4,'Limit 3',1,59.99),
     	(75951, 'Grindelwald´s Escape', 'Harry Porter','Fantastic Beasts', 132, 19.99,2,'Retired',2,19.99),
-	(30369, 'Beach Buggy', 'City',NULL, 45, 0.00,1,NULL,4,0.00),
+	(30369, 'Beach Buggy', 'City',NULL, 45, 0.00,1,NULL,5,0.00),
 	(30550, 'Easter Bunny','Easter','Seasonal',67,0.00,0,NULL,1,0.00),
 	(40371, 'Easter Egg','Easter','Seasonal',239,0.00,0,NULL,1,0.00),
 	(42115, 'Lamborghini Sián FKP 37', 'Technic','Vehicles', 3696,379.99,0,'Limit 3',1,379.99);
