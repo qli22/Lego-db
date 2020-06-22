@@ -128,4 +128,6 @@ VALUES
 	(30369, 'Beach Buggy', 'City',NULL, 45, 0.00,1,NULL,5,0.00),
 	(30550, 'Easter Bunny','Easter','Seasonal',67,0.00,0,NULL,1,0.00),
 	(40371, 'Easter Egg','Easter','Seasonal',239,0.00,0,NULL,1,0.00),
-	(42115, 'Lamborghini Sián FKP 37', 'Technic','Vehicles', 3696,379.99,0,'Limit 3',1,379.99);
+	(42115, 'Lamborghini Sián FKP 37', 'Technic','Vehicles', 3696,379.99,0,'Limit 3',1,379.99),
+	(80103, 'Dragon Boat Race', 'Seasonal','Chinese New Year', 643,49.99,15,'Retired',2,51.49),
+	(75930, 'Indoraptor Rampage at Lockwood Estate', 'Jurassic World™','Buildings', 1019,129.99,6,'Retired',1,124.99);
