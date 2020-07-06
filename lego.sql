@@ -133,3 +133,11 @@ VALUES
 	(75930, 'Indoraptor Rampage at Lockwood Estate', 'Jurassic World™','Buildings', 1019,129.99,6,'Retired',1,124.99)
 	(42083, 'Bugatti Chiron','Technic','Vehicles', 3599, 349.99, 0, 'Limit 3',1,249.99)
 	(40409, 'Red Rod','Creator','Model making', 142, 12.99, 2,NULL,1,0.00);
+
+--- INSERT new purchases by July 5, 2020
+INSERT INTO LEGO(item_id, name,theme,sub_group,num_pieces,price, 
+				 num_minifigure,status,purchased_quantity,purchased_price)
+VALUES
+	(10252, 'Volkswagen Beetle', 'Creator Expert','Vehicles', 1167, 99.99,0,'Backorders accepted',1,99.99),
+	(10267, 'Gingerbread House', 'Creator Expert','Buildings', 1477, 99.99,3,'Limit 3',1,99.99),
+	(40411, 'Creative Fun 12-in-1','Creator',NULL, 240, 0.00, 0,NULL,1,0.00);
