@@ -1,2 +1,4 @@
-![](https://www.lego.com/static/favicon/lego-logo-512.png)
-### WELCOME TO MY LEGO DATA BASE
+# WELCOME TO MY LEGO DATABASE
+
+![](https://upload.wikimedia.org/wikipedia/en/4/46/LegoMinifigureHiker.png)
+
