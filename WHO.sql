@@ -16,4 +16,6 @@ WHERE item_id IN (21109, 75977, 31058, 21108, 10268, 21309,
 				  75951, 80103);
 
 UPDATE ROD SET who = 'Gift'
-WHERE item_id IN (30369,30550,40409)
+WHERE item_id IN (30369,30550,40409,40411)
+
+-- Latest update: July 5,2020
