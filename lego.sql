@@ -140,4 +140,5 @@ INSERT INTO LEGO(item_id, name,theme,sub_group,num_pieces,price,
 VALUES
 	(10252, 'Volkswagen Beetle', 'Creator Expert','Vehicles', 1167, 99.99,0,'Backorders accepted',1,99.99),
 	(10267, 'Gingerbread House', 'Creator Expert','Buildings', 1477, 99.99,3,'Limit 3',1,99.99),
-	(40411, 'Creative Fun 12-in-1','Creator',NULL, 240, 0.00, 0,NULL,1,0.00);
+	(40411, 'Creative Fun 12-in-1','Creator',NULL, 240, 0.00, 0,NULL,1,0.00),
+	(75945, 'Expecto Patronum','Harry Porter™',Fantasy, 121, 19.99, 0,NULL,4,15.99);
