@@ -145,3 +145,17 @@ VALUES
 	(75979, 'Hedwig™','Harry Porter™','Fantasy', 630, 39.99, 1,'Limit 2',2,39.99),
 	(40173, 'LEGO® Iconic Brick Calendar','For the Home',NULL, 278, 19.99, 1,'Limit 20',2,19.99)
 	;
+--- INSERT new purchases by August 1, 2020
+INSERT INTO LEGO(item_id, name,theme,sub_group,num_pieces,price, 
+				 num_minifigure,status,purchased_quantity,purchased_price)
+VALUES
+	(30385, 'Super Mushroom Surprise Expansion Set', 'Super Mario','Expansion Set', 18, 4.99,0,NULL,4,0.00),
+	(71374, 'Nintendo Entertainment System™', 'Super Mario',NULL, 2646, 299.99,0,'Limit 2',1,299.99),
+	(40381, 'Monkey King','Monkie Kid 悟空小俠','BrickHeadz', 175, 9.99, 0,'Limit 3',2,9.99),
+	(71369, 'Bowser's Castle Boss Battle Expansion Set','Super Mario','Expansion Set', 1010, 99.99, 0,'Limit 3',2,99.99),
+	(40220, 'LEGO® London Bus','Creator','Vehicles', 118, 9.99, 0,'Limit 50',1,9.99),
+	(80104, 'Lion Dance','Seasonal','Chinese New Year', 882, 79.99, 8,'Limit 3',1,79.99),
+	(71362, 'Guarded Fortress Expansion Set','Super Mario','Expansion Set', 468, 49.99, 0,'Limit 3',1,49.99),
+	(71377, 'King Boo and the Haunted Yard Expansion Set','Super Mario','Expansion Set', 431, 49.99, 0,'Limit 3',1,49.99),
+	(71368, 'Toad’s Treasure Hunt Expansion Set','Super Mario','Expansion Set', 464, 69.99, 0,'Limit 3',1,69.99)
+	;
