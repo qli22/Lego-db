@@ -191,3 +191,17 @@ VALUES
 	(40420, 'Gru, Stuart and Otto', 'BrickHeadz', 'Minions',244, 19.99, 0, 'Limit 5', 1, 19.99),
 	(30343, 'McLaren Elva V3', 'Speed Champions', 'McLaren', 85, 0.00, 0,NULL,2,0.00)
 	;
+--- INSERT purchases on Amazon & Target 
+INSERT INTO LEGO(item_id, name,theme,sub_group,num_pieces,price, 
+				 num_minifigure,status,purchased_quantity,purchased_price)
+VALUES 
+	(42123, 'McLaren Senna GTR™', 'Technic','Vehicles',830,49.99,0,'Limit 3',1,49.99),
+	(42122, 'Jeep® Wrangler', 'Technic', 'Vehicles',665,49.99,0,'Limit 3',1,49.99),
+	(42121, 'Heavy-Duty Excavator','Technic', 'Vehicles', 569, 39.99, 0, 'Limit 3', 1, 39.99),
+	(21045, 'Trafalgar Square', 'Architecture','Buildings',1197,79.99,0,'Limit 3',1,79.99),
+	(42093, 'Chevrolet Corvette ZR1', 'Technic', 'Vehicles', 579, 49.99,0,'Limit 3',1,49.99),
+	(21046, 'Empire State Building', 'Architecture', 'Buildings', 1767,129.99,0,'Limit 3',1,129.99),
+	(75547, 'Minion Pilot in Training', 'Minions','Vehicles',119,29.99,2,'Limit 3',1,29.99),
+	(75546, 'Minions in Gru*s Lab', 'Minions', NULL, 87,19.99,2,'Limit 3',1,19.99),
+	(75267, 'Mandalorian™ Battle Pack', 'Star Wars', NULL, 102,14.99,1,'Limit 3',1,14.99)
+	;
