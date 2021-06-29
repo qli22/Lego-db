@@ -184,6 +184,10 @@ VALUES
 	(40477, 'Scrooge McDuck, Huey, Dewey & Louie', 'BrickHeadz','Disney',340,24.99,0,'Limit 5',2,24.99),
 	(40476, 'Daisy Duck', 'BrickHeadz', 'Disney', 110, 9.99, 0, 'Limit 5',1,9.99),
 	(76895, 'Ferrari F8 Tributo', 'Speed Champions','Vehicles',275,19.99,1,'Limit 3',1,19.99),
-	(76897, '1985 Audi Sport Quattro S1', 'Speed Champions', 'Vehicles', 250,19.99,1,'Limit 3',1,19.99)	 
+	(76897, '1985 Audi Sport Quattro S1', 'Speed Champions', 'Vehicles', 250,19.99,1,'Limit 3',1,19.99),
+	(854088, 'Forbidden City','For the Home','Building',28,9.99,0,'Limit 5',1,9.99),
+	(76896, 'Nissan GT-R NISMO', 'Speed Champions', 'Vehicles',298,19.99,1,'Limit 3',1,19.99),
+	(40468, 'Yellow Taxi', 'Creator', 'Vehicles', 124, 9.99,0, 'Limit 2',1,9.99),
+	(40420, 'Gru, Stuart and Otto', 'BrickHeadz', 'Minions',244, 19.99, 0, 'Limit 5', 1, 19.99),
+	(30343, 'McLaren Elva V3', 'Speed Champions', 'McLaren', 85, 0.00, 0,NULL,2,0.00)
 	;
-	 
