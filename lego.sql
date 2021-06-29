@@ -158,9 +158,32 @@ VALUES
 	(71362, 'Guarded Fortress Expansion Set','Super Mario','Expansion Set', 468, 49.99, 0,'Limit 3',1,49.99),
 	(71377, 'King Boo and the Haunted Yard Expansion Set','Super Mario','Expansion Set', 431, 49.99, 0,'Limit 3',1,49.99),
 	(71368, 'Toad’s Treasure Hunt Expansion Set','Super Mario','Expansion Set', 464, 69.99, 0,'Limit 3',1,69.99)
-	;
-	
+	 ;
 --- INSERT purchases on October 31, 2020
-INSERT INTO LEGO(item_id, name,theme,sub_group,num_pieces,price, num_minifigure,status)
+INSERT INTO LEGO(item_id, name,theme,sub_group,num_pieces,price, 
+				 num_minifigure,status,purchased_quantity,purchased_price)
+VALUES (21324, '123 Sesame Street', 'Ideas', NULL, 1367, 119.99, 6, 'Limit 2',1,119.99);
+
+--- INSERT purchases by November 26, 2020
+INSERT INTO LEGO(item_id, name,theme,sub_group,num_pieces,price, 
+				 num_minifigure,status,purchased_quantity,purchased_price)
+VALUES
+	(40410,'Charles Dickens Tribute','Christmas','Seasonal', 333, 0.00, 3, NULL,1,0.00),
+	(42107,'Ducati Panigale V4 R', 'Technic','Vehicles', 646, 69.99, 0, 'Limit 3',1,69.99),
+	(10277, 'Crocodile Locomotive', 'Creator Expert','Vehicles', 1271, 99.99, 2, 'Limit 2',1, 99.99)
+	 ;
+--- INSERT purchases by June 24, 2021	 
+INSERT INTO LEGO(item_id, name,theme,sub_group,num_pieces,price, 
+				 num_minifigure,status,purchased_quantity,purchased_price)
 VALUES 
-	(21324, '123 Sesame Street', 'Ideas', NULL, 1367, 119.99, 6, 'Hard to find');
+	(10274,'Ghostbusters™ ECTO-1','Creator Expert','Vehicles', 2352, 199.99, 0,'Limit 3',1,199.99),
+	(10295, 'Porsche 911','Creator Expert','Vehicles', 1458, 149.99,0,'Limit 3',1,149.99),
+	(75895, '1974 Porsche 911 Turbo 3.0', 'Speed Champions', 'Vehicles',180, 14.99, 1,'Limit 3',2,14.99),
+	(10292, 'The Friends Apartments', 'Creator Expert','Friends',2048, 149.99, 7, 'Limit 3', 1, 149.99),
+	(5006746, 'Swing Ship Ride - C-Day', 'Gift',NULL,152,0.00,0,NULL,1,0.00),
+	(40477, 'Scrooge McDuck, Huey, Dewey & Louie', 'BrickHeadz','Disney',340,24.99,0,'Limit 5',2,24.99),
+	(40476, 'Daisy Duck', 'BrickHeadz', 'Disney', 110, 9.99, 0, 'Limit 5',1,9.99),
+	(76895, 'Ferrari F8 Tributo', 'Speed Champions','Vehicles',275,19.99,1,'Limit 3',1,19.99),
+	(76897, '1985 Audi Sport Quattro S1', 'Speed Champions', 'Vehicles', 250,19.99,1,'Limit 3',1,19.99)	 
+	;
+	 
