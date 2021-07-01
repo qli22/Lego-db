@@ -204,5 +204,9 @@ VALUES
 	(75547, 'Minion Pilot in Training', 'Minions','Vehicles',119,29.99,2,'Limit 3',1,29.99),
 	(75546, 'Minions in Gru*s Lab', 'Minions', NULL, 87,19.99,2,'Limit 3',1,19.99),
 	(75267, 'Mandalorian™ Battle Pack', 'Star Wars', NULL, 102,14.99,1,'Limit 3',1,14.99),
-	(21323, 'Grand Piano', 'Ideas', NULL, 3662, 349.99, 0, 'Limit 2', 1, 349.99）
+	(21323, 'Grand Piano', 'Ideas', NULL, 3662, 349.99, 0, 'Limit 2', 1, 349.99),
+	(71030, 'Looney Tunes™', 'minifigures', NULL, 8, 4.99, 1, 'Limit 16', 10, 4.99),
+	(71024, 'Disney Series 2', 'minifigures', NULL, 7, 4.99, 1, 'Retired', 2, 4.99),
+	(10282, 'adidas Originals Superstar', ),
+	(40486, 'adidas Originals Superstar', )
 	;
